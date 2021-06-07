@@ -1,5 +1,5 @@
 <template>
-<h1>This is a Form</h1>
+<h1>This is a Siple Login Form</h1>
 <form>
     <label>User Name</label>
     <input type="text" placeholder="Enter Username" v-model="dataCollector.email">
